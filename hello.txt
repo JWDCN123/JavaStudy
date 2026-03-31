@@ -1,3 +1,2 @@
 Hello
-Hello again
 Hello from JavaStudy
